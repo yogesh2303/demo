@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post by Suraj" },
-    { "id": 2, "title": "Post by Yogesh" },
-    { "id": 3, "title": "Post by Prasad" }
+    { "id": 1, "title": "Artificial Intelligence" },
+    { "id": 2, "title": "Blockchain" },
+    { "id": 3, "title": "3D Printing" }
   ],
   "comments": [
     { "id": 1, "body": "some comment11", "postId": 1 },
